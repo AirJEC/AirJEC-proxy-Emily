@@ -4,3 +4,6 @@
 #docker files
 docker-compose.yml
 dockerfile
+
+#node_modules
+node_modules
