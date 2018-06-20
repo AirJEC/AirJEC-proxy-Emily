@@ -1,0 +1,23 @@
+{
+  "name": "AirJEC-proxy-Emily",
+  "version": "1.0.0",
+  "description": "Proxy server for airFeC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirJEC/AirJEC-proxy-Emily.git"
+  },
+  "author": "Emily Caples",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirJEC/AirJEC-proxy-Emily/issues"
+  },
+  "homepage": "https://github.com/AirJEC/AirJEC-proxy-Emily#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
